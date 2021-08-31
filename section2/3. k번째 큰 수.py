@@ -1,5 +1,4 @@
 import sys
-import itertools
 
 # sys.stdin=open("input.txt", "rt")
 
